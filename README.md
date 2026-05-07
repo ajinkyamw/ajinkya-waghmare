@@ -1,22 +1,52 @@
-# Hi 👋 I'm Ajinkya Waghmare
+# 👋 Hi there, I'm Ajinkya Waghmare!
 
-🚀 Aspiring DevOps Engineer with hands-on experience in Cloud & Automation  
-🎓 BCA Graduate  
-☁️ AWS | Linux | Git | Docker | Kubernetes | Terraform | Jenkins  
+## 🚀 DevOps Engineer | AWS | Kubernetes | Terraform
 
-## 🔧 Skills
-- Cloud: AWS (EC2, S3, IAM, VPC)
-- DevOps Tools: Git, Docker, Kubernetes, Jenkins
-- IaC: Terraform
-- OS: Linux
-- Scripting: Bash (Basic)
+Welcome to my GitHub profile 👨‍💻
 
-## 📂 Projects
-- AWS EC2 & S3 Deployment
-- CI/CD Pipeline using Jenkins & GitHub
-- Dockerized Application Deployment
-- Infrastructure Provisioning using Terraform
+I'm passionate about DevOps, Cloud Computing, Linux, Automation, and CI/CD pipelines.
 
-## 📫 Connect with Me
-- Email: waghmareajinkya26@gmail.com
-- LinkedIn: (add your LinkedIn link)
+---
+
+## 💡 About Me
+
+* 🔭 Working on DevOps & Cloud projects
+* 🌱 Learning advanced Kubernetes & AWS
+* ⚙️ Interested in CI/CD, Infrastructure Automation & Cloud Operations
+* 🐳 Hands-on with Docker, Kubernetes, Jenkins & Terraform
+* 📚 Continuously improving Linux and Cloud skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+| DevOps     | Cloud | Monitoring | Scripting |
+| ---------- | ----- | ---------- | --------- |
+| Docker     | AWS   | Prometheus | Bash      |
+| Kubernetes | EC2   | Grafana    | Python    |
+| Jenkins    | S3    | CloudWatch | YAML      |
+| Terraform  | IAM   | ELK Stack  | Groovy    |
+
+---
+
+## 🔧 Tools I Use
+
+* Docker
+* Kubernetes
+* Jenkins
+* GitHub Actions
+* Terraform
+* Linux
+* Git & GitHub
+* Prometheus & Grafana
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ajinkya-waghmare-a730633a6
+* Email: [waghmareajinkya26@gmail.com](mailto:waghmareajinkya26@gmail.com)
+
+---
+
+⭐ Always learning and building new DevOps projects!
